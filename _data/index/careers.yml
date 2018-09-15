@@ -1,6 +1,20 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: Lefo Srl
+    i18n: company_a
+  desc:
+    detail:
+    i18n: company_a_desc
+  date:
+    detail: March 2018 - Present
+    i18n: company_a_date
+  job:
+    detail: Java Developer
+    i18n: company_a_job
+  icon: fa-check-circle
+  
+  - name:
     detail: Awhy Srl
     i18n: company_a
   desc:
