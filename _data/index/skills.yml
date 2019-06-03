@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Motivation, MongoDB, HTML5, AngularJS, MySQL, Git, Java, Sleeping, Spring
-percentage: 100, 60, 80, 80, 70, 90, 80, 30, 60
+aspects: Motivation, MongoDB, HTML5, AngularJS, MySQL, Git, Java, Sleeping, Spring, Oracle
+percentage: 100, 60, 80, 80, 70, 80, 90, 30, 60, 70
